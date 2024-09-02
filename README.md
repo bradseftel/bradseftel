@@ -1,9 +1,9 @@
-Hello! I’m Brad, a front-end web developer. I really enjoy prograamming and utilizing the power of the computer.
-My journey in web development has been driven by an endless enthusiasm for building interesting projects. Over the past 20 years, I’ve used HTML, CSS, and JavaScript, along with popular frameworks like React and Node.
-As I continue to grow in the field, I am excited about expanding my expertise into full-stack development.
-My goal is to gain proficiency in back-end technologies such as Node.js, Express, and databases like MongoDB.
-I’m eager to understand the entire web development lifecycle, from server-side logic to front-end interfaces. 
-My approach to learning is hands-on. I’m excited about the challenge of becoming a full-stack developer and am committed to continuous learning and growth in this dynamic field.
+My name is Brad Seftel, I have  a strong foundation in  front-end technologies like HTML, Cascading Style Sheets and JavaScript. I am also comfortable with Arch Linux and working in the command line with git, ssh and remote log in and configuring. I am currently learning Nodejs and MongoDB. 
+
+Currently I am building a project and deciding on best technologies to use. MERN is one consideration but I am also exploring the MEVN stack. which feels for me to be a better fit. The main difference of course is React or Vue.
+
+I am familiar with git and GitHub. To see examples of my work please visit my website www.brad-seftel.com where you may link to my work via GitHub. You can follow my current work here. 
+#100daysofcode #mydailywebdev
 
 <!---
 bradseftel/bradseftel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
